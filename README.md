@@ -4,7 +4,7 @@
 # Hi there 👋 Christina here!
 
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/28517335/102723167-55adaf00-432c-11eb-80cc-45f32ffd8e3a.jpeg](https://imageio.forbes.com/specials-images/imageserve/65b0b9c87ae3e866980f22c7/13-Ways-Writers-Should-Embrace-Generative-AI/960x0.jpg?format=jpg&width=960)" height="400px" width="1000px">
+  <img src="https://media.licdn.com/dms/image/D4E12AQHmt2HavWsIoQ/article-cover_image-shrink_720_1280/0/1697380698315?e=2147483647&v=beta&t=nxMyxvVygfMhi3TSsv_8UCsSQykVDA77ps2rjAA4_ko" height="400px" width="1000px">
 </p>
 <p>
 Passion infuses every aspect of a data scientist's journey, fueling the pursuit of knowledge and the relentless quest for insights hidden within the data. With each algorithm crafted and every model refined, passion drives us to uncover the stories that numbers alone cannot tell. To know more about me, visit: <a href="[https://sargupta.in/](https://www.linkedin.com/in/ng-lan-anh/)">profile</a>.
