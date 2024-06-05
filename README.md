@@ -1,16 +1,15 @@
-## Hi there 👋
+## Readme Script 
 
-<!--
-**Christina-SciDataPro/Christina-SciDataPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there 👋 Christina here!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="[https://user-images.githubusercontent.com/28517335/102723167-55adaf00-432c-11eb-80cc-45f32ffd8e3a.jpeg](https://imageio.forbes.com/specials-images/imageserve/65b0b9c87ae3e866980f22c7/13-Ways-Writers-Should-Embrace-Generative-AI/960x0.jpg?format=jpg&width=960)" height="400px" width="1000px">
+</p>
+<p>
+Passion infuses every aspect of a data scientist's journey, fueling the pursuit of knowledge and the relentless quest for insights hidden within the data. With each algorithm crafted and every model refined, passion drives us to uncover the stories that numbers alone cannot tell. To know more about me, visit: <a href="[https://sargupta.in/](https://www.linkedin.com/in/ng-lan-anh/)">profile</a>.
+</p>
+
+- 🌱 I’m currently a Data Scientist
+- 🔭 I’m currently working on Deep Learning Model Deployment on Amazon SageMaKer
+- 📫 How to reach me: <a href="[https://twitter.com/sargupta9](https://www.linkedin.com/in/ng-lan-anh/)3">@christina93</a>
