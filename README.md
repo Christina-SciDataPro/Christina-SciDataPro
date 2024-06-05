@@ -22,7 +22,7 @@ Passion infuses every aspect of a data scientist's journey, fueling the pursuit 
 
 ### Main Programming Language :desktop_computer: 
 - Python <img src="https://user-images.githubusercontent.com/28517335/102723536-9f979480-432e-11eb-8552-fdb39e939362.png" width="40px">
-
+- Matlab <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjLXDsMKPOyRHhFYAaHxTKmrqxdJvvgQtcsA&s" width="40px">
 
 ### Interests 👨‍💻
 - Machine Learning and AI
