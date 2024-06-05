@@ -14,3 +14,48 @@ Passion infuses every aspect of a data scientist's journey, fueling the pursuit 
 - 🔭 I'm developing a generative AI model that creates realistic artwork based on user input. By training the model on a diverse dataset of paintings, drawings, and other visual artworks, I aim to enable users to generate unique and visually appealing images with just a few clicks. This project explores the intersection of art and technology, offering users a new way to express their creativity and inspire artistic exploration
 - 📫 To learn more about me and how to contact me: <a href="https://www.linkedin.com/in/ng-lan-anh/">@christina_science</a>
 
+### Latest Medium Articles
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/0" alt="Recent Article 0"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/1" alt="Recent Article 1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/2" alt="Recent Article 2"></a>
+
+### Main Programming Language :desktop_computer: 
+- Python <img src="https://user-images.githubusercontent.com/28517335/102723536-9f979480-432e-11eb-8552-fdb39e939362.png" width="40px">
+
+
+### Interests 👨‍💻
+- Machine Learning and AI
+- Data Visualization
+- Statistics and Probability
+- Big Data Technologies
+- Continuous Learning
+- Problem-Solving
+
+### Tools and Environments 🔧
+<p>
+<img src="https://img.shields.io/badge/OS-Windows-organge?logo=Windows">
+<img src="https://img.shields.io/badge/OS-Linux-organge?logo=Linux">
+<img src="https://img.shields.io/badge/OS-Chrome-organge?logo=Chrome">
+<img src="https://img.shields.io/badge/Editor-VSCode-green?logo=Visual%20Studio%20Code">
+<img src="https://img.shields.io/badge/Cloud-Azure-green?logo=Microsoft%20Azure">
+<img src="https://img.shields.io/badge/Library-scikit-red">
+<img src="https://img.shields.io/badge/Library-Tensorflow-red?logo=Tensorflow">
+</a>
+</p>
+
+
+### Platforms 👨‍
+<p>
+<a href="https://www.linkedin.com/in/sargupta/">
+<img src="https://img.shields.io/badge/LinkedIn-sargupta-blue">
+<a href="https://www.kaggle.com/sargupta">
+<img src="https://img.shields.io/badge/Kaggle-sargupta-blue">
+<a href="https://medium.com/@sargupta93">
+<img src="https://img.shields.io/badge/Medium-sargupta-blue">
+<a href="https://stackoverflow.com/users/9658895/sargupta?tab=profile">
+<img src="https://img.shields.io/badge/Stack%20Overflow-sargupta-blue">
+</a>
+</p>
+
+
