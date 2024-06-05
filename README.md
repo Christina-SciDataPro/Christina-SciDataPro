@@ -9,7 +9,6 @@
 <p>
 Passion infuses every aspect of a data scientist's journey, fueling the pursuit of knowledge and the relentless quest for insights hidden within the data. With each algorithm crafted and every model refined, passion drives us to uncover the stories that numbers alone cannot tell. To know more about me, visit: <a href="[https://www.linkedin.com/in/ng-lan-anh/">@christina_science</a>.
 </p>  
-</p>
 
 - 🌱 I’m currently a Data Scientist
 - 🔭 I'm currently developing a generative AI model that creates realistic artwork based on input from users. By training the model on a diverse dataset of paintings, drawings, and other visual artworks, I aim to enable users to generate unique and visually appealing images with just a few clicks. This project explores the intersection of art and technology, offering users a new way to express their creativity and inspire artistic exploration."
