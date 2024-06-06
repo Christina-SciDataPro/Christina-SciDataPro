@@ -11,7 +11,7 @@ Passion infuses every aspect of a data scientist's journey, fueling the pursuit 
 </p>  
 - 🌱 I’m currently a Data Scientist. To learn more about me and how to contact me: <a href="https://www.linkedin.com/in/ng-lan-anh/">@christina_science</a>
 
-### Below are some projects related to customer loyalty programs that I have been working on:
+### Below are some projects related to customer loyalty programs that I have done:
 - 🍉**Sentiment Analysis on Customer Feedback** (Natural Language Processing, Sentiment Analysis): Analyzing text data for sentiment is relatively straightforward with many pre-built libraries and models available. It's a good starting point for understanding customer points.
 
 - 🌽 **Customer Segmentation** (Clustering Algorithms, Data Mining): Segmenting customers using clustering algorithms is a well-defined problem with many existing tools and techniques. It requires basic knowledge of clustering algorithms and data processing.
@@ -22,11 +22,17 @@ Passion infuses every aspect of a data scientist's journey, fueling the pursuit 
 - 🍅 **Voice and Chatbot Assistants for Loyalty Programs** (Conversational AI, NLP): Developing a conversational assistant involves understanding natural language processing, intent recognition, and creating a responsive dialogue system. This requires substantial integration and tuning.
 - 🍍 **Dynamic Tier Management** (Reinforcement Learning): Implementing dynamic tier management using reinforcement learning is highly complex. It involves understanding advanced machine learning techniques and creating a system that continuously learns and adapts to customer behavior
 
-### Latest Medium Articles
+### Some projects that I will consider implementing in the next plan
+- 🍀 **Automated Reward Content Creation** (Natural Language Generation - NLG): There are many pre-trained models and tools available for NLG, making it relatively simple to implement and customize for content creation
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/0" alt="Recent Article 0"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/1" alt="Recent Article 1"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/2" alt="Recent Article 2"></a>
+- 🍁 **Personalized Reward Recommendations** (Generative Adversarial Networks - GANs, Variational Autoencoders - VAEs): Implementing GANs or VAEs for recommendations requires understanding generative models and integrating them with customer data, but it's manageable with existing frameworks
+
+- 🌻 **AI-Generated Loyalty Program Designs** (GANs, VAEs): Designing a loyalty program structure involves generating complex and cohesive, which requires a more profound understanding and tuning of generative models
+
+- 🌞 **Dynamic Offer Generation** (Reinforcement Learning, GANs): Real-time dynamic offer generation requires combining a generative model with real-time data processing and decision-making, increasing the complexity
+- 🌳 **Generative AI for Customer Support Chatbots** (GPT-based Models, Conversational AI): Creating a highly effective generative AI chatbot requires integrating an advanced NLP model, ensuring contextual accuracy, and maintaining a smooth conversational flow
+- 🍄 **Generative AI for Predictive Behavior Modeling** (GANs, VAEs, Predictive Modeling): Predictive behavior modeling with generative AI involves complex model training and validation, as well as integration with existing systems for real-time adjustments
+
 
 ### Main Programming Language :desktop_computer: 
 - Python <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvMOAPrLV8_sMUg-UVBsFz4MkUc5LgLlkjpA&s" width="30px">
