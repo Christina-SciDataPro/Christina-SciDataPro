@@ -22,7 +22,7 @@ Passion infuses every aspect of a data scientist's journey, fueling the pursuit 
 
 ### Main Programming Language :desktop_computer: 
 - Python <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvMOAPrLV8_sMUg-UVBsFz4MkUc5LgLlkjpA&s" width="30px">
-- Matlab <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjLXDsMKPOyRHhFYAaHxTKmrqxdJvvgQtcsA&s" width="50px">
+- Matlab <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjLXDsMKPOyRHhFYAaHxTKmrqxdJvvgQtcsA&s" width="70px">
 - R <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8lb_mSjDBp1qm1GSrOO13QXDEL-w2Pj5Zfw&s" width="40px">
 - SPSS <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcyf1z34cm-702eeaTmlLdzl-IVAkjAXSYlg&s" width="40px">
 - SQL  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXZSuNVhTZPxF4lpB0oNAZTOX2eISii_oZg&s" width="40px">
