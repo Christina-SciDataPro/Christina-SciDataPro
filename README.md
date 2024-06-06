@@ -25,7 +25,9 @@ Passion infuses every aspect of a data scientist's journey, fueling the pursuit 
 - Matlab <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjLXDsMKPOyRHhFYAaHxTKmrqxdJvvgQtcsA&s" width="50px">
 - R <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8lb_mSjDBp1qm1GSrOO13QXDEL-w2Pj5Zfw&s" width="40px">
 - SPSS <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcyf1z34cm-702eeaTmlLdzl-IVAkjAXSYlg&s" width="40px">
-- SQL 
+- SQL  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXZSuNVhTZPxF4lpB0oNAZTOX2eISii_oZg&s" width="40px">
+
+
 ### Interests 👨‍💻
 - Machine Learning and AI
 - Data Visualization
