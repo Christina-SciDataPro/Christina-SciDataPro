@@ -7,12 +7,14 @@
   <img src="https://media.licdn.com/dms/image/D4E12AQHmt2HavWsIoQ/article-cover_image-shrink_720_1280/0/1697380698315?e=2147483647&v=beta&t=nxMyxvVygfMhi3TSsv_8UCsSQykVDA77ps2rjAA4_ko" height="500px" width="1000px">
 </p>
 <p>
-Passion infuses every aspect of a data scientist's journey, fueling the pursuit of knowledge and the relentless quest for insights hidden within the data. With each algorithm crafted and every model refined, passion drives us to uncover the stories that numbers alone cannot tell.
+Passion infuses every aspect of a data scientist's journey, fueling the pursuit of knowledge and the relentless quest for insights hidden within the data. With each algorithm crafted and every model refined, passion drives me to uncover the stories that numbers alone cannot tell.
 </p>  
 - 🌱 I’m currently a Data Scientist. To learn more about me and how to contact me: <a href="https://www.linkedin.com/in/ng-lan-anh/">@christina_science</a>
 
 ### Below are some projects related to customer loyalty programs that I have been working on:
-- Sentiment Analysis on Customer Feedback:
+- 🍉**Sentiment Analysis on Customer Feedback** (Natural Language Processing, Sentiment Analysis): Analyzing text data for sentiment is relatively straightforward with many pre-built libraries and models available. It's a good starting point for understanding customer points.
+
+- 🍅 **Customer Segmentation** (Clustering Algorithms, Data Mining): Segmenting customers using clustering algorithms is a well-defined problem with many existing tools and techniques. It requires basic knowledge of clustering algorithms and data processing.
 
 
 ### Latest Medium Articles
