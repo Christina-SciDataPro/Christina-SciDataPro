@@ -11,7 +11,8 @@ Passion infuses every aspect of a data scientist's journey, fueling the pursuit 
 </p>  
 
 - 🌱 I’m currently a Data Scientist
-- 🔭 I'm developing a generative AI model that creates realistic artwork based on user input. By training the model on a diverse dataset of paintings, drawings, and other visual artworks, I aim to enable users to generate unique and visually appealing images with just a few clicks. This project explores the intersection of art and technology, offering users a new way to express their creativity and inspire artistic exploration
+- 🔭 Below are some projects related to customer loyalty programs that I have been working on:
+  1. Sentiment Analysis on Customer Feedback: Natural Language Processing(NLP), Sentiment
 - 📫 To learn more about me and how to contact me: <a href="https://www.linkedin.com/in/ng-lan-anh/">@christina_science</a>
 
 ### Latest Medium Articles
