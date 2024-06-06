@@ -9,11 +9,11 @@
 <p>
 Passion infuses every aspect of a data scientist's journey, fueling the pursuit of knowledge and the relentless quest for insights hidden within the data. With each algorithm crafted and every model refined, passion drives us to uncover the stories that numbers alone cannot tell.
 </p>  
+- 🌱 I’m currently a Data Scientist. To learn more about me and how to contact me: <a href="https://www.linkedin.com/in/ng-lan-anh/">@christina_science</a>
 
-- 🌱 I’m currently a Data Scientist
-- 🔭 Below are some projects related to customer loyalty programs that I have been working on:
-  1. Sentiment Analysis on Customer Feedback: Natural Language Processing(NLP), Sentiment
-- 📫 To learn more about me and how to contact me: <a href="https://www.linkedin.com/in/ng-lan-anh/">@christina_science</a>
+### Below are some projects related to customer loyalty programs that I have been working on:
+- Sentiment Analysis on Customer Feedback:
+
 
 ### Latest Medium Articles
 
