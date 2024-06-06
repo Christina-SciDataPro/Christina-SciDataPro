@@ -13,7 +13,7 @@ Passion infuses every aspect of a data scientist's journey, fueling the pursuit 
 
 ### Below are some projects related to customer loyalty programs that I have been working on:
 - 🍉**Sentiment Analysis on Customer Feedback** (Natural Language Processing, Sentiment Analysis): Analyzing text data for sentiment is relatively straightforward with many pre-built libraries and models available. It's a good starting point for understanding customer points.
-
+</p>  
 - 🍅 **Customer Segmentation** (Clustering Algorithms, Data Mining): Segmenting customers using clustering algorithms is a well-defined problem with many existing tools and techniques. It requires basic knowledge of clustering algorithms and data processing.
 
 
