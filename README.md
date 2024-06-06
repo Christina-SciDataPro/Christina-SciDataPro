@@ -13,9 +13,14 @@ Passion infuses every aspect of a data scientist's journey, fueling the pursuit 
 
 ### Below are some projects related to customer loyalty programs that I have been working on:
 - 🍉**Sentiment Analysis on Customer Feedback** (Natural Language Processing, Sentiment Analysis): Analyzing text data for sentiment is relatively straightforward with many pre-built libraries and models available. It's a good starting point for understanding customer points.
-</p>  
-- 🍅 **Customer Segmentation** (Clustering Algorithms, Data Mining): Segmenting customers using clustering algorithms is a well-defined problem with many existing tools and techniques. It requires basic knowledge of clustering algorithms and data processing.
 
+- 🌽 **Customer Segmentation** (Clustering Algorithms, Data Mining): Segmenting customers using clustering algorithms is a well-defined problem with many existing tools and techniques. It requires basic knowledge of clustering algorithms and data processing.
+- 🍇 **Personalized Rewards System** (Machine Learning, Recommendation System): Building a recommendation system can be more complex than clustering but is manageable with the availability of frameworks like collaborative filtering and content-based filtering.
+- 🥝 **Churn Prediction and Prevention** (Predictive Analytics, Machine Learning): Predicting churn requires understanding various supervised learning techniques and dealing with potentially imbalanced datasets. The complexity arises from the need to tune the model and validate predictions.
+- 🌶 **AI-Driven Gamification** (Gamification, Behavioral AI): Incorporating gamification involves integrating behavioral analysis interaction data, which can be moderately complex. The challenge is in designing engaging and effective gamified elements.
+- 🍋 **Fraud Detection in Loyalty Programs** (Anomaly Detection, Machine Learning): Fraud detection involves identifying outliers and anomalies, which can be tricky due to the subtlety of fraudulent behaviors. It requires robust data preprocessing and anomaly detection methods
+- 🍅 **Voice and Chatbot Assistants for Loyalty Programs** (Conversational AI, NLP): Developing a conversational assistant involves understanding natural language processing, intent recognition, and creating a responsive dialogue system. This requires substantial integration and tuning.
+- 🍍 **Dynamic Tier Management** (Reinforcement Learning): Implementing dynamic tier management using reinforcement learning is highly complex. It involves understanding advanced machine learning techniques and creating a system that continuously learns and adapts to customer behavior
 
 ### Latest Medium Articles
 
