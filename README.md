@@ -21,7 +21,7 @@ Passion infuses every aspect of a data scientist's journey, fueling the pursuit 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/2" alt="Recent Article 2"></a>
 
 ### Main Programming Language :desktop_computer: 
-- Python <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvMOAPrLV8_sMUg-UVBsFz4MkUc5LgLlkjpA&s" width="40px">
+- Python <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvMOAPrLV8_sMUg-UVBsFz4MkUc5LgLlkjpA&s" width="20px">
 - Matlab <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjLXDsMKPOyRHhFYAaHxTKmrqxdJvvgQtcsA&s" width="40px">
 - R <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8lb_mSjDBp1qm1GSrOO13QXDEL-w2Pj5Zfw&s" width="40px">
 - SPSS <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcyf1z34cm-702eeaTmlLdzl-IVAkjAXSYlg&s" width="40px">
